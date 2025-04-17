@@ -1,0 +1,30 @@
+.info_wrapper {
+  border: solid 2px #f4f4f4;
+  width: 315px;
+  height: 250px;
+  border-radius: 15px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.info_wrapper h2 {
+  font-family: Jost;
+  font-weight: 500;
+  font-size: 20px;
+}
+.tralalero {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+.blockInfo h3 {
+  font-family: Jost;
+  font-weight: 500;
+  font-size: 16px;
+}
+.blockInfo p {
+  font-family: Jost;
+  font-weight: 400;
+  font-size: 16px;
+}

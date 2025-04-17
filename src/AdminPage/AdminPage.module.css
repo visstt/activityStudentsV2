@@ -1,0 +1,13 @@
+.adminPage_wrapper h1 {
+  text-align: center;
+  margin: 40px 0;
+  font-family: Jost;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 100%;
+  color: #5c81ff;
+}
+.admins_tables {
+  display: flex;
+  justify-content: space-between;
+}

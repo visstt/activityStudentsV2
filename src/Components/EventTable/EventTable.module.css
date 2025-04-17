@@ -1,0 +1,35 @@
+.event_table {
+  border: solid 2px #f4f4f4;
+  width: 1000px;
+  height: 250px;
+  border-radius: 15px;
+}
+.create_event {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: solid 1px #f4f4f4;
+  padding: 10px 20px;
+}
+.create_event h2 {
+  font-family: Jost;
+  font-weight: 500;
+  font-size: 18px;
+}
+.add_event_btn {
+  cursor: pointer;
+  background-color: #5c81ff;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 10px;
+
+  font-family: Jost;
+  font-weight: 500;
+  font-size: 16px;
+
+  transition: 0.3s ease-in-out;
+}
+.add_event_btn:hover {
+  background-color: #4e75f8;
+}
