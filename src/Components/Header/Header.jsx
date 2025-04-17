@@ -19,7 +19,7 @@ export default function Header() {
           <div className={styles.user_section}>
             <img src="/bell.svg" alt="bell" className={styles.bell} />
             <div className={styles.user_info}>
-              <h2>Малюгин Вячеслав</h2>
+              <h2>Селиверстов С.А.</h2>
               <p>Директор</p>
             </div>
             <img
